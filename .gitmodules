@@ -1,0 +1,4 @@
+[submodule "Llyra"]
+	path = Llyra
+	url = https://github.com/albus-shore/Llyra.git
+	branch = main
