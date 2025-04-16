@@ -10,7 +10,7 @@
 
 ---
 
-# 🧱AURELIA
+## 🧱AURELIA
 _Augmented United Resolution Environment with LLM and Interlinked Agents_
 
 ## 🧩Introduction
@@ -24,16 +24,27 @@ AURELIA is built as an experiment in improving how MUN delegates engage with top
 ## ✨Features
 
 - **AI-guided Proposal Builder**
+
     Delegates can answer a few topic-relevant questions to generate early drafts of their ideas.
+
 - **Procedural Assistant**
+
     Clear, rule-based support for motions, voting, and procedures.
+
 - **Chair Dashboard**
+
     Overview of delegate responses and general position trends.
+
 - **No Installations Required**
+
     Runs entirely on the web.
+
 - **Multi-role Access System**
+
     Interfaces tailored for Chairs, Delegates, and Secretariat teams.
+
 - **LLM-Driven Interactions**
+
     Cloud-based reasoning pipeline connects to a hosted model (can be replaced or customized).
 
 ---
@@ -62,6 +73,7 @@ Imagine a MUN conference where:
 ## ⚖️License
 
 This project is licensed under the Polyform Noncommercial License 1.0.0.
+
 Free for academic, personal, or research use. Commercial usage requires separate permission.
 
 ---
