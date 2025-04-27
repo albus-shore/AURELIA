@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" width="300" alt="Llyra Logo"/>
+  <img src="./assets/logo.png" width="300" alt="AURELIA Logo"/>
 </p>
 
 <h1 align="center">AURELIA</h1>
